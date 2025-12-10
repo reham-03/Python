@@ -1,4 +1,4 @@
-Diwali Sales Analysis — Python Data Analysis
+Diwali Sales Analysis 
 
 Problem Statement
 
@@ -26,21 +26,30 @@ Key Insights
 
  • Sales Trends:
 Sales increased significantly during the days leading up to Diwali, showing strong festive-driven demand.
+
  • Category-wise Performance:
 Electronics, clothing, and household items were top-performing categories, contributing the highest revenue.
+
  • Customer Demographics:
 Most customers were young working professionals from urban areas, indicating higher purchasing power and festive spending behavior.
+
  • Regional Insights:
 Sales were notably higher in regions with larger retail presence and strong promotional activity during Diwali.
 
 Tools Used
 
  • Python
+ 
  • Pandas
+ 
  • NumPy
+ 
  • Matplotlib
+ 
  • Seaborn
+ 
  • Plotly
+ 
  • Jupyter Notebook
 
 Files Included
