@@ -10,26 +10,41 @@ Using Python, I cleaned and analyzed the dataset to uncover hidden booking patte
 
 Steps Performed
  • Imported and explored the dataset
+ 
  • Cleaned missing and duplicate data
+ 
  • Conducted exploratory data analysis (EDA)
+ 
  • Created visualizations to analyze trends and distributions
+ 
  • Extracted actionable insights from booking behavior
 
 Key Insights
  • Total Bookings: 5
+ 
  • Canceled Bookings: 2
+ 
  • Completed Bookings: 3
+ 
  • Average Stay Duration: 3.6 days
+ 
  • Most Popular Meal Type: BB (Bed & Breakfast)
+ 
  • Peak Booking Month: August (2 bookings)
+ 
  • Booking Growth: +100% increase in July, −50% decrease in September
+ 
  • Booking Status: Majority were “Check-Out”, with some canceled and others marked as “No-Show”
 
 Tools Used
  • Python
+ 
  • Pandas
+ 
  • NumPy
+ 
  • Matplotlib
+ 
  • Jupyter Notebook
 
 Files Included
