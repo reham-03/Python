@@ -10,11 +10,16 @@ Using Python, I cleaned and analyzed the dataset to uncover key sales patterns d
 
 Steps Performed
 
- • Imported essential libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+ •Imported essential libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+ 
  • Loaded and explored the Diwali sales dataset
+ 
  • Cleaned data by handling missing values and fixing inconsistencies
+ 
  • Conducted EDA to study sales trends, category performance, and customer demographics
+ 
  • Created visualizations to analyze revenue distribution and consumer behavior
+ 
  • Derived meaningful business insights to support retail decision-making
 
 Key Insights
